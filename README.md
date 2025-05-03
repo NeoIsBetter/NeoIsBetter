@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NeoIsBetter
+- 👋 Hi, I’m @SamGorun
 - 👀 I’m interested in games, code, anything to do with a computer
 - 🌱 I’m currently studying Software Engineering at ISU
 - 💞️ I’m looking to collaborate on group projects for school and work.
